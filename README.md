@@ -1,4 +1,6 @@
 # Tiny Slider 2
+**Note** Forked from ganlanyuan/tiny-slider for Accessibility improvements 
+
 [![](https://data.jsdelivr.com/v1/package/npm/tiny-slider/badge?style=rounded)](https://www.jsdelivr.com/package/npm/tiny-slider)
 ![version](https://img.shields.io/badge/Version-2.9.4-green.svg)
 
